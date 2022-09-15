@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "docker": "^1.0.0",
+    "cors": "^2.8.5",
+    "docker": "^0.2.14",
+    "esm": "^3.2.25",
     "node": "^18.9.0"
   },
   "scripts": {

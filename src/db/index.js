@@ -33,3 +33,11 @@ const dataProductos = [
         stock:"10"
     }
 ];
+
+export const findAllClientes = () => {
+    return dataClientes;
+};
+
+export const findAllProductos = () => {
+    return dataProductos;
+};
